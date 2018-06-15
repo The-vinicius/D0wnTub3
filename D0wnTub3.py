@@ -3,13 +3,13 @@
 #        +=========================================+
 #        |........♚ łαbørαŧøriø Ŧαηŧαรмα...........|
 #        +-----------------------------------------+
-#        |♚Coded: @Tweelv5 (Telegram)              |
+#        |♚Coded: @DreadPirateRobertt (Telegram)              |
 #        |♚Contact:telegram.me/FullPythonAlchemist |
 #        |♚Date: 15/02/2017                        |
 #        |♚Chanell:telegram.me/Phantasm_Lab        |
 #        |♚Changing the Description of this tool   |
 #        |Won't made you the coder ^_^ !!!         |
-#        |♚Respect Coderz ^_^(Open_Source_Project) |
+#        |♚Respect Coderz ^_^ (Open_Source_Project)|
 #        |♚I take no responsibilities for the      |
 #        |  use of this program !                  |
 #        +=========================================+
@@ -59,7 +59,7 @@ Banner2 = """
 ▒▓▒▓▒▓▒▓▒▓▒▓─▄▀▀▀▄       +=================================================+
 ─██▀████▀██──▀▄▀──█      |     Download: Videos, Musicas e Playlists       |                                            
 O▀████████▀O─────█       +=================================================+
-───▀█▄▄█▀────────█       | Coded By > łuŧЋ1єr - ルシアー (@Xcultevil)      |
+───▀█▄▄█▀────────█       | Coded: @DreadPirateRobertt                      |
 ──▓▒▓▒▓▒▓▒───────█       | ☎ Contact: t.me/Phantasm_Lab (@Phantasm_Lab)    |
                          | ☮ date : 15.02.2017                             |
                          +=================================================+"""
